@@ -1,2 +1,2 @@
 # automating-aws-with-python
-Repo for automating AWS with Python
+Repo for automating AWS with Python. Cloned.
